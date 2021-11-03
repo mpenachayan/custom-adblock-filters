@@ -1,0 +1,3 @@
+procyclingstats.com##div.top-cont
+procyclingstats.com##li.main.race:has(div.desktop-ad.homepage-between-results)
+procyclingstats.com##li.main.race:has(div.mob-ad.homepage-between-results)
