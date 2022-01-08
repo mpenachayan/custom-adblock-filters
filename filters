@@ -2,3 +2,6 @@ procyclingstats.com##div.top-cont
 procyclingstats.com##li.main.race:has(div.desktop-ad.homepage-between-results)
 procyclingstats.com##li.main.race:has(div.mob-ad.homepage-between-results)
 procyclingstats.com##div.wrapper:nth-child(2) > div.content:nth-child(2) > div.page-content.page-object.default:nth-child(7) > div:nth-child(2) > div.right.w25.mb_w100.mb_mt10:nth-child(2) > div:last-child > div > div.mob-ad.rider-after-program
+procyclingstats.com##div.wrapper:first-child > div.content:nth-child(2) > div.top-cont:nth-child(5)
+procyclingstats.com##div.wrapper:nth-child(2) > div.content:nth-child(2) > div.top-cont:nth-child(6)
+procyclingstats.com##div.wrapper:first-child > div.content:nth-child(2) > div.top-cont:nth-child(6)
