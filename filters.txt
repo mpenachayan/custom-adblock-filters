@@ -48,3 +48,6 @@ procyclingstats.com##div.result-cont.hide:nth-of-type(5) > div.subTabs:nth-of-ty
 ! 2022-06-16 https://as.com
 as.com##.ad--ldb1.ad
 
+
+www.relevo.com##.advertising.advertising--head
+
