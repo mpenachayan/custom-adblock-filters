@@ -1,1 +1,19 @@
+! 2023-09-09 https://www.procyclingstats.com
+www.procyclingstats.com##.top-cont-mobile-race.top-cont-mobile
+www.procyclingstats.com###r89-live-ad-1
+www.procyclingstats.com##.homepage-after-livestats.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results2.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results3.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results4.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results5.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results6.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results7.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results76.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-info.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-info2.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-info3.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-info4.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-info5.min250h.mob-ad
+
 
