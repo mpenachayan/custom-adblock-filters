@@ -9,7 +9,8 @@ www.procyclingstats.com##.homepage-between-results4.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-results5.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-results6.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-results7.min250h.mob-ad
-www.procyclingstats.com##.homepage-between-results76.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results8.min250h.mob-ad
+www.procyclingstats.com##.homepage-between-results9.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-info.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-info2.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-info3.min250h.mob-ad
