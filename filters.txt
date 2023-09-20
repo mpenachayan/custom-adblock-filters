@@ -17,4 +17,9 @@ www.procyclingstats.com##.homepage-between-info3.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-info4.min250h.mob-ad
 www.procyclingstats.com##.homepage-between-info5.min250h.mob-ad
 www.procyclingstats.com##.after-result.mob-ad
+www.procyclingstats.com##.top-cont-mobile-rider.top-cont-mobile
+www.procyclingstats.com##.rider-after-program.mob-ad
+www.procyclingstats.com##.top-cont-mobile-other.top-cont-mobile
+www.procyclingstats.com##.top-cont-mobile-team.top-cont-mobile
+
 
