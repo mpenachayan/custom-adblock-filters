@@ -5,3 +5,5 @@ atresplayer.com
 atresmedia.com
 indazn.com
 dazn.com
+youtube.com
+googlevideo.com
