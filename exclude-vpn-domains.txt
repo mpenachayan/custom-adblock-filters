@@ -3,7 +3,9 @@ mediaset.it
 theplatform.eu
 atresplayer.com
 atresmedia.com
-indazn.com
-dazn.com
 youtube.com
 googlevideo.com
+# DAZN
+abrstream.tech
+indazn.com
+dazn.com
